@@ -1,4 +1,5 @@
 #此版本为暴力直接模拟点击法，为初版，尔后再来完善
+#使用selenium库和chrome webdriver配合使用，实现登陆操作
 
 import time
 from selenium import webdriver
